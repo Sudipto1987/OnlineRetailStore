@@ -12,7 +12,7 @@ public class TestController {
 
 	@GetMapping("/users")
 	public String findAll() {
-		return "Hi Babun";
+		return "Hi Babun and Sudipto";
 	}
 
 
